@@ -43,4 +43,4 @@ I had one question: If neurons form structured networks in the brain, can they b
 specfically graphically? If so, what kind of computation and reasoning can arrive from such as structure?
 
 Status:
-Early experimentation prototpye
+Early experimentation prototype
