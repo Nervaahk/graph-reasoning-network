@@ -10,6 +10,7 @@ through their neighbors and a final symbolic linear interpolar inference step.
 The goal is not preformance, but to explore graphical-based reasoning.
 
 How to Run:
+    
     1. clone the repo: git clone https://github.com/Nervaahk/graph-reasoning-network.git
        
        move to directory: cd graph-reasoning-network
