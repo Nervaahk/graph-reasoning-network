@@ -11,13 +11,21 @@ The goal is not preformance, but to explore graphical-based reasoning.
 
 How to Run:
     1. clone the repo: git clone https://github.com/Nervaahk/graph-reasoning-network.git
+       
        move to directory: cd graph-reasoning-network
-       2. Create the Virtual Env:
+    
+    2. Create the Virtual Env:
+       
        python -m venv venv
+       
        (Linux) source venv/bin/activate
-       (Windows) venv\Scripts\activate.bat
+       
+       Windows) venv\Scripts\activate.bat
+       
        pip install -r requirements.txt
-       3. Run the Network:
+    
+    3. Run the Network:
+       
        python graphicalnetwork.py
 
     Example input and output:
